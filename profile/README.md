@@ -11,6 +11,7 @@
 - Hugging Face: [huggingface.co/automatedigital](https://huggingface.co/automatedigital)
 
 ### Open Source Projects
-**[Spark](https://github.com/automatedigital/spark)** - A modular AI harness that runs in your terminal, connects to any LLM provider, and gets smarter over time.
+**[OpenFable](https://github.com/automatedigital/openfable)** - An open-source large language model for general-purpose and coding tasks, designed for flexibility and collaborative research.
 
-**[OpenFable](https://github.com/automatedigital/openfable)** - A new frontier model.
+
+**[Spark](https://github.com/automatedigital/spark)** - A modular AI harness that runs in your terminal, connects to any LLM provider, and gets smarter over time.
