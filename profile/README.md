@@ -7,7 +7,5 @@
 
 ### Quick links
 
-- Website: [https://automatedigital.ai](https://automatedigital.ai)  
-- Docs: [https://github.com/automatedigital](https://github.com/automatedigital)  
-- Discussions: [https://github.com/orgs/automatedigital/discussions](https://github.com/orgs/automatedigital/discussions)  
-- Roadmap: [https://github.com/orgs/automatedigital/projects](https://github.com/orgs/automatedigital/projects)  
+- Website: [automatedigital.ai](https://automatedigital.ai)
+- Hugging Face: [huggingface.co/automatedigital](https://huggingface.co/automatedigital)
